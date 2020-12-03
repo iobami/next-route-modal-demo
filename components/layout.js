@@ -52,8 +52,8 @@ export default function Layout({ children }) {
         }
 
         .huge {
-          padding: 3rem;
-          font-size: 3rem;
+          padding: 1rem;
+          font-size: 1.5rem;
         }
       `}</style>
     </div>
